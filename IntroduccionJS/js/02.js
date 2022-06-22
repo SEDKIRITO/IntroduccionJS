@@ -1,23 +1,21 @@
-// variables con let
+// Uso de let no cambia respecto a var
 
-var producto = 'Audifonos Gamer'; //iniciar variable y darle un valor
+let producto = 'Audifonos Gamer'; //iniciar letiable y darle un valor
 
-var disponible; //iniciamos la variable sin valor 
+let disponible; //iniciamos la letiable sin valor 
 
-producto = true; //reasignando el valor de la variable
+producto = true; //reasignando el valor de la letiable
 
-var producto1 = "computadora",
+let producto1 = "computadora",
     disponoble1 = true,
     categoria = "computadoras";
 
-// var 1diponible;
-// var -disponoble;
-var _disponoble;
+// let 1diponible;
+// let -disponoble;
+let _disponoble;
 
-//ESTILOS PARA LAS VARIABLES
-var nombre_producto = "Monitor HD+"; // underscore
-var nombreProducto = "Monitor HD+"; // camel case
-var NombreProducto = "Monitor HD+"; // pascal case
-var nombreproducto = "Monitor HD+"; // lower case
-
-console.log(nombreProducto);
+//ESTILOS PARA LAS letIABLES
+let nombre_producto = "Monitor HD+"; // underscore
+let nombreProducto = "Monitor HD+"; // camel case
+let NombreProducto = "Monitor HD+"; // pascal case
+let nombreproducto = "Monitor HD+"; // lower case
