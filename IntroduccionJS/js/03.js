@@ -2,7 +2,7 @@
 
 let producto = 'Audifonos Gamer'; //iniciar letiable y darle un valor
 
-const disponible; //iniciamos la letiable sin valor 
+const disponible = true; //iniciamos la letiable sin valor 
 
 producto = true; //reasignando el valor de la letiable
 
